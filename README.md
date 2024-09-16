@@ -38,16 +38,10 @@ https://github.com/user-attachments/assets/efcdca1e-4317-4da6-a852-e53e8c013ffa
 
 - Challenge:
 
-  info
+  The main challenges I faced was getting a user input to work.
 
 - Solution:
 
-  info
+  To solve this I used Readline-Sync to get user inputs and ensure the inputs are of the correct type.
 
-- Challenge:
 
-  info
-
-- Solution:
-
-  info
