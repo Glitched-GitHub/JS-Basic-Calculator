@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/efcdca1e-4317-4da6-a852-e53e8c013ffa
 
 - Start Date:
 
-  22nd July 24024
+  22nd July 2024
 
 - End Date:
 
